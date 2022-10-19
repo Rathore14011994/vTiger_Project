@@ -58,6 +58,8 @@ public void clickOnCampaignAction() {
 	threeDashButton.click();
 	marketingOption.click();
 	campaignOption.click();
+	System.out.println("this is just for fun");
+	System.out.println("dont take it seriously");
 	
 
 }
