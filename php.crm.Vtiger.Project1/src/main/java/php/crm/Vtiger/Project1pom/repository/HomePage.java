@@ -61,6 +61,9 @@ public void clickOnCampaignAction() {
 	System.out.println("this is just for fun");
 	System.out.println("dont take it seriously");
 	System.out.println("this is again local change");
+
+	System.out.println("this is global change");
+
 	
 
 }
