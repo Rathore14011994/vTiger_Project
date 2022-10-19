@@ -60,6 +60,7 @@ public void clickOnCampaignAction() {
 	campaignOption.click();
 	System.out.println("this is just for fun");
 	System.out.println("dont take it seriously");
+	System.out.println("this is global change");
 	
 
 }
