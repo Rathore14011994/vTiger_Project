@@ -36,6 +36,7 @@ public class BaseClass {
 		wutils.implicitWait(driver);
 		driver.get(url);
 		System.out.println("Chrome Browser is launched");
+		System.out.println("this is for poll scm");
 		System.out.println("Navigated to Vtiger");
 		sDriver=driver;
 		
